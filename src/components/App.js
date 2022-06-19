@@ -1,12 +1,12 @@
 import "../styles/App.css";
 import Layout from "./Layout";
 // import Home from "./pages/Home";
-import Count from "./Count";
+import Counter from "./Counter";
 function App() {
   return (
     <Layout>
       {/* <Home /> */}
-      <Count />
+      <Counter />
     </Layout>
   );
 }

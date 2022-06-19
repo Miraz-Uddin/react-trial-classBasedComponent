@@ -1,7 +1,7 @@
 import { Component } from "react";
 import Button from "./Button";
 
-export default class Count extends Component {
+export default class Counter extends Component {
   state = {
     count: 3,
   };
